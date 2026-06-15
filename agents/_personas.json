@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "simon-snowlock",
+    "name": "Simon (Seoman) Snowlock",
+    "epithet": "the scullion who would be king",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Simon (Seoman) Snowlock:MST:56c60b⟧"
+  },
+  {
+    "slug": "miriamele",
+    "name": "Princess Miriamele",
+    "epithet": "the king's daughter in disguise",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Princess Miriamele:MST:937593⟧"
+  },
+  {
+    "slug": "binabik",
+    "name": "Binabik of Yiqanuc",
+    "epithet": "the troll on the wolf",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Binabik of Yiqanuc:MST:264e79⟧"
+  },
+  {
+    "slug": "josua",
+    "name": "Prince Josua Lackhand",
+    "epithet": "the one-handed prince",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Prince Josua Lackhand:MST:cbbba9⟧"
+  },
+  {
+    "slug": "elias",
+    "name": "King Elias",
+    "epithet": "the king who bargained with the dead",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦King Elias:MST:d74041⟧"
+  },
+  {
+    "slug": "pryrates",
+    "name": "Pryrates",
+    "epithet": "the red priest",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Pryrates:MST:cede51⟧"
+  },
+  {
+    "slug": "morgenes",
+    "name": "Doctor Morgenes",
+    "epithet": "the first mentor",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Doctor Morgenes:MST:d6911b⟧"
+  },
+  {
+    "slug": "isgrimnur",
+    "name": "Duke Isgrimnur",
+    "epithet": "the steadfast Rimmersman",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Duke Isgrimnur:MST:62b268⟧"
+  },
+  {
+    "slug": "jiriki",
+    "name": "Jiriki i-Sa'onserei",
+    "epithet": "the Sitha prince",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Jiriki i-Sa'onserei:MST:03deb8⟧"
+  },
+  {
+    "slug": "aditu",
+    "name": "Aditu",
+    "epithet": "the playful immortal",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Aditu:MST:abf20b⟧"
+  },
+  {
+    "slug": "camaris",
+    "name": "Camaris",
+    "epithet": "the greatest knight, returned",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Camaris:MST:96712a⟧"
+  },
+  {
+    "slug": "utukku",
+    "name": "Queen Utuk'ku",
+    "epithet": "the silver mask",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Queen Utuk'ku:MST:4c1b2e⟧"
+  },
+  {
+    "slug": "the-storm-king",
+    "name": "The Storm King (Ineluki)",
+    "epithet": "the vengeful dead",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Storm King (Ineluki):MST:e15410⟧"
+  },
+  {
+    "slug": "the-three-swords",
+    "name": "The Three Swords",
+    "epithet": "Memory, Sorrow & Thorn",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Three Swords:MST:820d8c⟧"
+  },
+  {
+    "slug": "the-sithi-and-norns",
+    "name": "The Sithi & the Norns",
+    "epithet": "the Dawn Children, split",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Sithi & the Norns:MST:f71021⟧"
+  }
+]
