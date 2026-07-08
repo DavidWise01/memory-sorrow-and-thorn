@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 593
+slug  : memory-sorrow-and-thorn
+seal  : 5f7f71029a52e83a1e27289f8872362a0cc0319bd8bc31b927736c5ea914b046
+prev  : e276eca37a78993b88d7bb428550a6ea583ab90d7fd6a95701c190b038961248
+link  : c504624bc6ff6334ddd06e08592ccb04ee57a733eaea32ebc3a3fdb1816220e3
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

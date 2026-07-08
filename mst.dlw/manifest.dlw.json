@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The kitchen boy and the three swords — the epic that taught a generation (Martin among them) what the form could really do.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 593,
+    "prev": "e276eca37a78993b88d7bb428550a6ea583ab90d7fd6a95701c190b038961248",
+    "link": "c504624bc6ff6334ddd06e08592ccb04ee57a733eaea32ebc3a3fdb1816220e3",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
